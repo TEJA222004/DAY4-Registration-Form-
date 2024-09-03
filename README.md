@@ -1,5 +1,5 @@
 # DAY4
-
+<hr>
 <h1>Registration Form Project</h1>
 <p>This project is a registration form created using HTML and CSS. It includes fields for users to input their personal information and is styled to be clean, user-friendly, and responsive.</p>
 
@@ -13,5 +13,8 @@
 
 
 <h3>Technologies Used</h3>
-<b>HTML: </b>For structuring the form elements.
+<b>HTML: </b>For structuring the form elements.<br>
 <b>CSS: </b>For styling the form to enhance the user experience.
+
+<h2>Project Preview:</h2>
+![Screenshot 2024-09-03 110513](https://github.com/user-attachments/assets/46fe22e2-8022-4165-bf80-c3c2f7c6b36e)
