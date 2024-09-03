@@ -17,4 +17,4 @@
 <b>CSS: </b>For styling the form to enhance the user experience.
 
 <h2>Project Preview:</h2>
-![Screenshot 2024-09-03 110513](https://github.com/user-attachments/assets/46fe22e2-8022-4165-bf80-c3c2f7c6b36e)
+<img src="https://github.com/user-attachments/assets/46fe22e2-8022-4165-bf80-c3c2f7c6b36e" alt="Project Preview" width="300"/>
